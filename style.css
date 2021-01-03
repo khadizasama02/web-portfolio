@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: #58B19F;
+    
+}
+.name-color
+{
+    color: #6D214F;
+}
+.half-width
+{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+.submit
+{
+   
+   color: #6D214F;
+   
+}
+h3{
+    color: #6D214F;
+}
